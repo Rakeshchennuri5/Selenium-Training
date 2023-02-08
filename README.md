@@ -1,1 +1,1 @@
-# JavaProject
+# Selenium Training
